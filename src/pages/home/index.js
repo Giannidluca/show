@@ -1,0 +1,1 @@
+// Is the same home component from templates but with real data.
